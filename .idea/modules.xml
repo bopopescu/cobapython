@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/bulutangkis/.idea/bulutangkis.iml" filepath="$USER_HOME$/PycharmProjects/bulutangkis/.idea/bulutangkis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cobapython.iml" filepath="$PROJECT_DIR$/.idea/cobapython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../brofist-pentest-python/.idea/pentest-python.iml" filepath="$PROJECT_DIR$/../brofist-pentest-python/.idea/pentest-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../socket_tutorial/.idea/socket_tutorial.iml" filepath="$PROJECT_DIR$/../socket_tutorial/.idea/socket_tutorial.iml" />
     </modules>
   </component>
 </project>
